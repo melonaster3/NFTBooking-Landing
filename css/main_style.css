@@ -1170,13 +1170,15 @@ text-align: left;
 .counting{
     font-family: 'Charis SIL', serif;
     font-size:36px;
-
 }
 
 .nft_booking_hero{
-    background: url(../images/banner.webp);
-    padding-bottom:100px !important;
+    background: url(../images/hero.png);
+    padding-bottom:50px !important;
+    background-position: right;
+    background-size:contain;
     background-repeat: no-repeat;
+  
 }
 
 @media(min-width:1280px){
